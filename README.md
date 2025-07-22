@@ -16,5 +16,6 @@
 Here are some ideas to get you started:
 
 
--->![Me in the lab, pipetting and spreading broth culture with glass beads after transformation to observe beautiful bacterial colonies.](https://github.com/user-attachments/assets/f3500ab3-6b22-46d6-965b-f3f2b200360c)
+-->!
+[Me in the lab, pipetting and spreading broth culture with glass beads after transformation to observe beautiful bacterial colonies.](https://github.com/MobasharAhmad/MobasharAhmad/blob/main/tlab.jpeg?raw=true)
 
