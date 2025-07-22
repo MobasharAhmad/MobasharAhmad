@@ -9,6 +9,7 @@
 - 📫 How to reach me: mobashar.ahmad2019@gmail.com
 - Pronouns: He/him
 - ⚡ I love taking long walks and getting lost in thoughts, enjoy deep discussions, and feel a strong connection to poetry.
+![Me in the lab, pipetting and spreading broth culture with glass beads after transformation to observe beautiful bacterial colonies.](https://github.com/MobasharAhmad/MobasharAhmad/blob/main/tlab.jpeg)
 
 <!--
 **MobasharAhmad/MobasharAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +17,4 @@
 Here are some ideas to get you started:
 
 
--->!
-[Me in the lab, pipetting and spreading broth culture with glass beads after transformation to observe beautiful bacterial colonies.](https://github.com/MobasharAhmad/MobasharAhmad/blob/main/tlab.jpeg?raw=true)
-
+-->
