@@ -10,8 +10,8 @@
 - Pronouns: He/him
 - ⚡ I love taking long walks and getting lost in thoughts, enjoy deep discussions, and feel a strong connection to poetry.
   
-![Me in the lab, pipetting and spreading broth culture with glass beads after transformation to observe beautiful bacterial colonies.](https://github.com/MobasharAhmad/MobasharAhmad/blob/main/tlab.jpeg)
-:) Me in the lab, pipetting and spreading broth culture with glass beads after transformation to observe beautiful bacterial colonies.
+![Me in the lab, pipetting and spreading broth culture with glass beads after transformation to observe beautiful bacterial colonies.]<img src="https://github.com/MobasharAhmad/MobasharAhmad/blob/main/tlab.jpeg" width="150" />
+:) Me in the lab, pipetting broth culture and spreading it with glass beads after transformation to observe beautiful bacterial colonies.
 
 <!--
 **MobasharAhmad/MobasharAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
