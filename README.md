@@ -10,7 +10,7 @@
 - Pronouns: He/him
 - ⚡ I love taking long walks and getting lost in thoughts, enjoy deep discussions, and feel a strong connection to poetry.
   
-![Me in the lab, pipetting and spreading broth culture with glass beads after transformation to observe beautiful bacterial colonies.]<img src="https://github.com/MobasharAhmad/MobasharAhmad/blob/main/tlab.jpeg" width="150" />
+<img src="https://github.com/MobasharAhmad/MobasharAhmad/blob/main/tlab.jpeg" width="300" />
 :) Me in the lab, pipetting broth culture and spreading it with glass beads after transformation to observe beautiful bacterial colonies.
 
 <!--
